@@ -1,5 +1,10 @@
 # PROJET DELOREAN
 
+- ELEVE1: PRENOM NOM, prenom.nom@monmail.com
+- ELEVE2: PRENOM NOM, prenom2.nom2@monmail.com
+
+1. Mettre vos noms ci dessus
+
 Le projet pour le TP Git.
 Ce projet suit les conventions de branches de [NVIE](http://nvie.com/posts/a-successful-git-branching-model/).
 
@@ -12,11 +17,10 @@ Par exemple, ``equipements/roue.md` décrit la roue de la delorean.
 
 ### Ajouter un équipement
 
-Pour ajouter un équipement, il faut ajouter le fichier correspondant dans le 
+Pour ajouter un équipement, il faut ajouter le fichier correspondant dans le
 dossier ``equipements`.
 
 ### Améliorer un équipement / corriger un bug
 
-Pour améliorer un équipement, il faut faire la modification dans le fichier de 
+Pour améliorer un équipement, il faut faire la modification dans le fichier de
 l'équipement.
-
